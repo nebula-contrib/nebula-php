@@ -2,8 +2,9 @@
 
 Nebula PHP client.
 
-## Install
+## Install with Composer
 
+[https://packagist.org/packages/vesoft-inc/nebula-php](https://packagist.org/packages/vesoft-inc/nebula-php)
 ```shell
 composer require vesoft-inc/nebula-php
 ```
