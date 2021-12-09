@@ -1,5 +1,5 @@
 {
-  "name": "heyanlong/nebula-php",
+  "name": "vesoft-inc/nebula-php",
   "type": "library",
   "description": "A nebula client for PHP",
   "minimum-stability": "stable",
