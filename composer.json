@@ -1,0 +1,27 @@
+{
+  "name": "heyanlong/nebula-php",
+  "type": "library",
+  "description": "A nebula client for PHP",
+  "minimum-stability": "stable",
+  "license": "Apache-2.0",
+  "support": {
+    "issues": "https://github.com/heyanlong/nebula-php/issues"
+  },
+  "authors": [
+    {
+      "name": "Yanlong He",
+      "email": "yanlong@php.net",
+      "homepage": "https://yanlong.me",
+      "role": "Creator & Maintainer"
+    }
+  ],
+  "require": {
+    "php": "^7.0 || ^8.0",
+    "apache/thrift": "^0.15.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nebula\\": "src/"
+    }
+  }
+}
