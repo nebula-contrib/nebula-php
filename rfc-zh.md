@@ -19,9 +19,15 @@ net和php开箱即用客户端的诞生为用户提供了便利，更完善了ne
 
 * 项目系统结构 & 模块设计
 
-```
-todo
-```
+  Nebula.Client.Graph
+
+  Nebula.Client.Meta
+
+  Nebula.Client.Storage
+
+  Nebula.Encoder
+
+  Tests
 
 * 内外部依赖
 
