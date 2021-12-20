@@ -1,5 +1,13 @@
 ## Nebula-PHP
 
+![CI](https://github.com/heyanlong/nebula-php/workflows/E2E/badge.svg)
+![release](https://img.shields.io/github/release/heyanlong/nebula-php.svg)
+![PHP](https://img.shields.io/badge/PHP-%3E%3D%207.0-brightgreen.svg)
+![contributors](https://img.shields.io/github/contributors/heyanlong/nebula-php.svg)
+![platform](https://img.shields.io/badge/platform-macos%20%7C%20linux-brightgreen.svg)
+![license](https://img.shields.io/badge/license-Apache%202.0-green.svg)
+![issues](https://img.shields.io/github/issues/heyanlong/nebula-php.svg)
+
 Nebula PHP client.
 
 ## Install with Composer
