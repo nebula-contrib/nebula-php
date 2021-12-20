@@ -25,6 +25,6 @@
     }
   },
   "scripts": {
-    "test": "ls -l && ls -l tests && pwd && php -q tests/test.php"
+    "test": "php -q tests/test.php"
   }
 }
