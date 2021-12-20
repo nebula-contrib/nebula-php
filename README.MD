@@ -17,7 +17,7 @@ Nebula PHP client.
 composer require vesoft-inc/nebula-php
 ```
 
-## Usage example
+## Quick Start
 
 ```php
 <?php
