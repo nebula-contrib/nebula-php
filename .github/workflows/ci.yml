@@ -17,6 +17,12 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    - name: Start Nebula
+      run: docker-compose up -d
+
+    - name: Check Nebula
+      run: docker ps
+
     - name: Validate composer.json and composer.lock
       run: composer validate --strict
 
