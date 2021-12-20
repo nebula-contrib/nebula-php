@@ -23,5 +23,8 @@
     "psr-4": {
       "Nebula\\": "src/"
     }
+  },
+  "scripts": {
+    "test": "php tests/test.php"
   }
 }
