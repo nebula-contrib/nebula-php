@@ -1,6 +1,6 @@
 ## Project Name
 
-nebula-net & nebula-php
+[nebula-net](https://github.com/shyboylpf/nebula-net) & [nebula-php](https://github.com/heyanlong/nebula-php)
 
 ## Introdution
 
